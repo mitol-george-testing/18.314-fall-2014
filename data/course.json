@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2610b242-4fee-0a77-c54a-fefd3c74da45"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Combinatorial Analysis",
+  "course_description": "This course analyzes combinatorial problems and methods for their solution. Topics include: enumeration, generating functions, recurrence relations, construction of bijections, introduction to graph theory, network algorithms, and extremal combinatorics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.314",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
